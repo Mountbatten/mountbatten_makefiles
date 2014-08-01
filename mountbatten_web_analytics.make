@@ -3,7 +3,8 @@ api = 2
 
 ;Website analytics
 projects[piwik][version] = 2.5
-projects[piwik][type] = "module" 
+projects[piwik][type] = "module"
+projects[piwik][subdir] = "contrib"
 
 projects[mountbatten_web_analytics][type] = "module"
 projects[mountbatten_web_analytics][download][type] = "git"
