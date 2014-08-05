@@ -17,3 +17,9 @@ projects[metatag][subdir] = "contrib"
 projects[schemaorg][version] = 1.0-beta4
 projects[schemaorg][type] = "module"
 projects[schemaorg][subdir] = "contrib"
+
+projects[mountbatten_seo][type] = "module"
+projects[mountbatten_seo][download][type] = "git"
+projects[mountbatten_seo][download][url] = "git://github.com/benjaminug/mountbatten_seo.git"
+projects[mountbatten_seo][directory_name] = "mountbatten_seo"
+projects[mountbatten_seo][subdir] = "features"
