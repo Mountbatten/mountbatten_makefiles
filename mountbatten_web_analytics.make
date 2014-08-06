@@ -6,6 +6,10 @@ projects[piwik][version] = 2.5
 projects[piwik][type] = "module"
 projects[piwik][subdir] = "contrib"
 
+projects[google_analytics][version] = "1.4"
+projects[google_analytics][type] = "module"
+projects[google_analytics][subdir] = "contrib"
+
 projects[mountbatten_web_analytics][type] = "module"
 projects[mountbatten_web_analytics][download][type] = "git"
 projects[mountbatten_web_analytics][download][url] = "git://github.com/benjaminug/mountbatten_web_analytics.git"
