@@ -21,6 +21,10 @@ projects[file_entity][version] = 2.0-alpha3
 projects[file_entity][type] = "module"
 projects[file_entity][subdir] = "contrib"
 
+projects[imagecache_token][version] = 1.x-dev
+projects[imagecache_token][type] = "module"
+projects[imagecache_token][subdir] = "contrib"
+
 projects[htmlpurifier][version] = 1.0
 projects[htmlpurifier][type] = "module"
 projects[htmlpurifier][subdir] = "contrib"
