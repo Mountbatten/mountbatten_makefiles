@@ -2,7 +2,7 @@ core = 7.x
 api = 2
 
 ;Spam protection
-projects[botcha][version] = 3.3
+projects[botcha][version] = 4.x-dev
 projects[botcha][type] = "module"
 projects[botcha][subdir] = "contrib"
 
