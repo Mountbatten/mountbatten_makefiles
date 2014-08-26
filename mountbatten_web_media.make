@@ -9,7 +9,7 @@ projects[spamspan][version] = 1.1-beta1
 projects[spamspan][type] = "module"
 projects[spamspan][subdir] = "contrib"
 
-projects[picture][version] = 2.4
+projects[picture][version] = 2.6
 projects[picture][type] = "module"
 projects[picture][subdir] = "contrib"
 
@@ -29,7 +29,7 @@ projects[htmlpurifier][version] = 1.0
 projects[htmlpurifier][type] = "module"
 projects[htmlpurifier][subdir] = "contrib"
 
-projects[breakpoints][version] = 1.2
+projects[breakpoints][version] = 1.3
 projects[breakpoints][type] = "module"
 projects[breakpoints][subdir] = "contrib"
 
