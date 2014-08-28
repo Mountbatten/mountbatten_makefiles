@@ -41,7 +41,7 @@ projects[features][version] = "2.2"
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
 
-projects[libraries][version] = "2.2"
+projects[libraries][version] = "3.x-dev"
 projects[libraries][type] = "module"
 projects[libraries][subdir] = "contrib"
 
