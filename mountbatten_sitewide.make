@@ -75,7 +75,6 @@ projects[views][patch][] = "https://www.drupal.org/files/issues/views-site_info-
 projects[better_messages][version] = "1.x-dev"
 projects[better_messages][type] = "module"
 projects[better_messages][subdir] = "contrib"
-projects[better_messages][patch][] = "https://www.drupal.org/files/issues/better_message-2375249-6.patch"
 
 ; Libraries
 libraries[chosen][download][type] = "file"
