@@ -17,7 +17,7 @@ projects[media][version] = 2.0-alpha4
 projects[media][type] = "module"
 projects[media][subdir] = "contrib"
 
-projects[file_entity][version] = 2.0-alpha3
+projects[file_entity][version] = 2.0-beta1
 projects[file_entity][type] = "module"
 projects[file_entity][subdir] = "contrib"
 
