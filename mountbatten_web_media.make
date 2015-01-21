@@ -5,11 +5,11 @@ projects[wysiwyg][version] = 2.2
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][subdir] = "contrib"
 
-projects[spamspan][version] = 1.1-beta1
+projects[spamspan][version] = 1.2
 projects[spamspan][type] = "module"
 projects[spamspan][subdir] = "contrib"
 
-projects[picture][version] = 2.7
+projects[picture][version] = 2.9
 projects[picture][type] = "module"
 projects[picture][subdir] = "contrib"
 
