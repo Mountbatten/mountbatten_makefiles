@@ -5,7 +5,7 @@ projects[r4032login][version] = 1.7
 projects[r4032login][type] = "module"
 projects[r4032login][subdir] = "contrib"
 
-projects[admin_menu][version] = "3.0-rc4"
+projects[admin_menu][version] = "3.0-rc5"
 projects[admin_menu][type] = "module"
 projects[admin_menu][subdir] = "contrib"
 
@@ -13,7 +13,7 @@ projects[advanced_help][version] = "1.1"
 projects[advanced_help][type] = "module"
 projects[advanced_help][subdir] = "contrib"
 
-projects[ctools][version] = "1.4"
+projects[ctools][version] = "1.5"
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
 
@@ -21,7 +21,7 @@ projects[chosen][version] = "2.0-beta4"
 projects[chosen][type] = "module"
 projects[chosen][subdir] = "contrib"
 
-projects[context][version] = "3.2"
+projects[context][version] = "3.6"
 projects[context][type] = "module"
 projects[context][subdir] = "contrib"
 
@@ -37,7 +37,7 @@ projects[entity][version] = "1.5"
 projects[entity][type] = "module"
 projects[entity][subdir] = "contrib"
 
-projects[features][version] = "2.2"
+projects[features][version] = "2.3"
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
 
@@ -45,7 +45,7 @@ projects[libraries][version] = "3.x-dev"
 projects[libraries][type] = "module"
 projects[libraries][subdir] = "contrib"
 
-projects[link][version] = "1.2"
+projects[link][version] = "1.3"
 projects[link][type] = "module"
 projects[link][subdir] = "contrib"
 
