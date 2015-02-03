@@ -13,7 +13,7 @@ projects[advanced_help][version] = "1.1"
 projects[advanced_help][type] = "module"
 projects[advanced_help][subdir] = "contrib"
 
-projects[ctools][version] = "1.5"
+projects[ctools][version] = "1.6"
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
 
