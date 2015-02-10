@@ -5,9 +5,13 @@ projects[r4032login][version] = 1.7
 projects[r4032login][type] = "module"
 projects[r4032login][subdir] = "contrib"
 
-projects[admin_menu][version] = "3.0-rc5"
+projects[admin_menu][version] = 3.0-rc5
 projects[admin_menu][type] = "module"
 projects[admin_menu][subdir] = "contrib"
+
+projects[adminimal_admin_menu][version] = 1.5
+projects[adminimal_admin_menu][type] = "module"
+projects[adminimal_admin_menu][subdir] = "contrib"
 
 projects[advanced_help][version] = "1.1"
 projects[advanced_help][type] = "module"
@@ -17,10 +21,6 @@ projects[ctools][version] = "1.6"
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
 
-projects[chosen][version] = "2.0-beta4"
-projects[chosen][type] = "module"
-projects[chosen][subdir] = "contrib"
-
 projects[context][version] = "3.6"
 projects[context][type] = "module"
 projects[context][subdir] = "contrib"
@@ -28,6 +28,10 @@ projects[context][subdir] = "contrib"
 projects[date][version] = "2.8"
 projects[date][type] = "module"
 projects[date][subdir] = "contrib"
+
+projects[elements][version] = "1.4"
+projects[elements][type] = "module"
+projects[elements][subdir] = "contrib"
 
 projects[email][version] = "1.3"
 projects[email][type] = "module"
@@ -53,6 +57,10 @@ projects[module_filter][version] = "2.0-alpha2"
 projects[module_filter][type] = "module"
 projects[module_filter][subdir] = "contrib"
 
+projects[nagios][version] = 1.3
+projects[nagios][type] = "module"
+projects[nagios][subdir] = "contrib"
+
 projects[pathauto][version] = "1.2"
 projects[pathauto][type] = "module"
 projects[pathauto][subdir] = "contrib"
@@ -71,13 +79,20 @@ projects[views][type] = "module"
 projects[views][subdir] = "contrib"
 projects[views][patch][] = "https://www.drupal.org/files/issues/views-site_info-730752-8.patch"
 
-; Should we leave these
-projects[better_messages][version] = "1.x-dev"
-projects[better_messages][type] = "module"
-projects[better_messages][subdir] = "contrib"
+projects[transliteration][version] = "3.2"
+projects[transliteration][type] = "module"
+projects[transliteration][subdir] = "contrib"
 
-; Libraries
-libraries[chosen][download][type] = "file"
-libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/v1.1.0/chosen_v1.1.0.zip"
-libraries[chosen][directory_name] = "chosen"
-libraries[chosen][type] = "library"
+projects[transliteration][version] = "3.2"
+projects[transliteration][type] = "module"
+projects[transliteration][subdir] = "contrib"
+
+projects[globalredirect][version] = 1.5
+projects[globalredirect][type] = "module"
+projects[globalredirect][subdir] = "contrib"
+
+; Themes
+
+projects[adminimal_theme][version] = "1.18"
+projects[adminimal_theme][type] = "theme"
+
