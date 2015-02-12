@@ -5,18 +5,6 @@ projects[r4032login][version] = 1.7
 projects[r4032login][type] = "module"
 projects[r4032login][subdir] = "contrib"
 
-projects[admin_menu][version] = 3.0-rc5
-projects[admin_menu][type] = "module"
-projects[admin_menu][subdir] = "contrib"
-
-projects[adminimal_admin_menu][version] = 1.5
-projects[adminimal_admin_menu][type] = "module"
-projects[adminimal_admin_menu][subdir] = "contrib"
-
-projects[advanced_help][version] = "1.1"
-projects[advanced_help][type] = "module"
-projects[advanced_help][subdir] = "contrib"
-
 projects[ctools][version] = "1.6"
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
@@ -53,10 +41,6 @@ projects[link][version] = "1.3"
 projects[link][type] = "module"
 projects[link][subdir] = "contrib"
 
-projects[module_filter][version] = "2.0-alpha2"
-projects[module_filter][type] = "module"
-projects[module_filter][subdir] = "contrib"
-
 projects[nagios][version] = 1.3
 projects[nagios][type] = "module"
 projects[nagios][subdir] = "contrib"
@@ -74,7 +58,7 @@ projects[token][version] = "1.5"
 projects[token][type] = "module"
 projects[token][subdir] = "contrib"
 
-projects[views][version] = "3.8"
+projects[views][version] = "3.10"
 projects[views][type] = "module"
 projects[views][subdir] = "contrib"
 projects[views][patch][] = "https://www.drupal.org/files/issues/views-site_info-730752-8.patch"
@@ -83,16 +67,6 @@ projects[transliteration][version] = "3.2"
 projects[transliteration][type] = "module"
 projects[transliteration][subdir] = "contrib"
 
-projects[transliteration][version] = "3.2"
-projects[transliteration][type] = "module"
-projects[transliteration][subdir] = "contrib"
-
 projects[globalredirect][version] = 1.5
 projects[globalredirect][type] = "module"
 projects[globalredirect][subdir] = "contrib"
-
-; Themes
-
-projects[adminimal_theme][version] = "1.18"
-projects[adminimal_theme][type] = "theme"
-
