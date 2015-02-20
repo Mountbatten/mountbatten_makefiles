@@ -21,6 +21,10 @@ projects[file_entity][version] = 2.0-beta1
 projects[file_entity][type] = "module"
 projects[file_entity][subdir] = "contrib"
 
+projects[flexslider][version] = 2.0-alpha3
+projects[flexslider][type] = "module"
+projects[flexslider][subdir] = "contrib"
+
 projects[imagecache_token][version] = 1.x-dev
 projects[imagecache_token][type] = "module"
 projects[imagecache_token][subdir] = "contrib"
@@ -35,7 +39,7 @@ projects[breakpoints][subdir] = "contrib"
 
 projects[mountbatten_web_media][type] = "module"
 projects[mountbatten_web_media][download][type] = "git"
-projects[mountbatten_web_media][download][url] = "git://github.com/benjaminug/mountbatten_web_media.git"
+projects[mountbatten_web_media][download][url] = "git://github.com/mountbatten/mountbatten_web_media.git"
 projects[mountbatten_web_media][directory_name] = "mountbatten_web_media"
 projects[mountbatten_web_media][subdir] = "features"
 
@@ -44,6 +48,11 @@ libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
+
+libraries[flexslider][download][type] = "file"
+libraries[flexslider][download][url] = "https://codeload.github.com/woothemes/FlexSlider/zip/version/2.2"
+libraries[flexslider][directory_name] = "flexslider"
+libraries[flexslider][type] = "library"
 
 libraries[htmlpurifier][download][type] = "file"
 libraries[htmlpurifier][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.6.0.zip"
