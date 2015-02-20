@@ -1,6 +1,10 @@
 core = 7.x
 api = 2
 
+projects[colorbox][version] = "2.8"
+projects[colorbox][type] = "module"
+projects[colorbox][subdir] = "contrib"
+
 projects[wysiwyg][version] = 2.2
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][subdir] = "contrib"
@@ -48,6 +52,11 @@ libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
+
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/1.5.14.zip"
+libraries[colorbox][directory_name] = "colorbox"
+libraries[colorbox][type] = "library"
 
 libraries[flexslider][download][type] = "file"
 libraries[flexslider][download][url] = "https://codeload.github.com/woothemes/FlexSlider/zip/version/2.2"
