@@ -30,6 +30,10 @@ projects[flexslider][version] = 2.0-alpha3
 projects[flexslider][type] = "module"
 projects[flexslider][subdir] = "contrib"
 
+projects[flexslider_views_slideshow][version] = 2.x-dev
+projects[flexslider_views_slideshow][type] = "module"
+projects[flexslider_views_slideshow][subdir] = "contrib"
+
 projects[imagecache_token][version] = 1.x-dev
 projects[imagecache_token][type] = "module"
 projects[imagecache_token][subdir] = "contrib"
