@@ -25,7 +25,7 @@ projects[email][version] = "1.3"
 projects[email][type] = "module"
 projects[email][subdir] = "contrib"
 
-projects[entity][version] = "1.5"
+projects[entity][version] = "1.6"
 projects[entity][type] = "module"
 projects[entity][subdir] = "contrib"
 
