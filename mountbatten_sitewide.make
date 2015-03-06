@@ -1,7 +1,7 @@
 core = 7.x
 api = 2
 
-projects[r4032login][version] = 1.7
+projects[r4032login][version] = "1.8"
 projects[r4032login][type] = "module"
 projects[r4032login][subdir] = "contrib"
 
@@ -29,7 +29,7 @@ projects[entity][version] = "1.6"
 projects[entity][type] = "module"
 projects[entity][subdir] = "contrib"
 
-projects[features][version] = "2.3"
+projects[features][version] = "2.4"
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
 
@@ -54,7 +54,7 @@ projects[strongarm][version] = "2.0"
 projects[strongarm][type] = "module"
 projects[strongarm][subdir] = "contrib"
 
-projects[token][version] = "1.5"
+projects[token][version] = "1.6"
 projects[token][type] = "module"
 projects[token][subdir] = "contrib"
 
