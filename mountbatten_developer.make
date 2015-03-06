@@ -17,7 +17,7 @@ projects[diff][version] = 3.2
 projects[diff][type] = "module"
 projects[diff][subdir] = "contrib"
 
-projects[module_filter][version] = "2.0-alpha2"
+projects[module_filter][version] = "2.0"
 projects[module_filter][type] = "module"
 projects[module_filter][subdir] = "contrib"
 
