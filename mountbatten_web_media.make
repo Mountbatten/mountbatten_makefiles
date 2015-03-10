@@ -60,7 +60,7 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
 libraries[flexslider][download][type] = "file"
-libraries[flexslider][download][url] = "https://codeload.github.com/woothemes/FlexSlider/zip/version/2.2"
+libraries[flexslider][download][url] = "https://codeload.github.com/woothemes/FlexSlider/zip/version/2.2.2"
 libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][type] = "library"
 
