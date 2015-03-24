@@ -46,6 +46,10 @@ projects[breakpoints][version] = 1.3
 projects[breakpoints][type] = "module"
 projects[breakpoints][subdir] = "contrib"
 
+projects[views_slideshow][version] = "3.x-dev"
+projects[views_slideshow][type] = "module"
+projects[views_slideshow][subdir] = "contrib"
+
 projects[mountbatten_web_media][type] = "module"
 projects[mountbatten_web_media][download][type] = "git"
 projects[mountbatten_web_media][download][url] = "git://github.com/mountbatten/mountbatten_web_media.git"
