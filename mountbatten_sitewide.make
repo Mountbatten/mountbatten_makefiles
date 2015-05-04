@@ -29,7 +29,7 @@ projects[entity][version] = "1.6"
 projects[entity][type] = "module"
 projects[entity][subdir] = "contrib"
 
-projects[features][version] = "2.4"
+projects[features][version] = "2.5"
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
 
@@ -58,7 +58,7 @@ projects[token][version] = "1.6"
 projects[token][type] = "module"
 projects[token][subdir] = "contrib"
 
-projects[views][version] = "3.10"
+projects[views][version] = "3.11"
 projects[views][type] = "module"
 projects[views][subdir] = "contrib"
 projects[views][patch][] = "https://www.drupal.org/files/issues/views-site_info-730752-8.patch"
