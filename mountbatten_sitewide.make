@@ -5,7 +5,7 @@ projects[r4032login][version] = "1.8"
 projects[r4032login][type] = "module"
 projects[r4032login][subdir] = "contrib"
 
-projects[ctools][version] = "1.6"
+projects[ctools][version] = "1.7"
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
 
