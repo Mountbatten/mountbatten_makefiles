@@ -1,7 +1,7 @@
 core = 7.x
 api = 2
 
-projects[colorbox][version] = "2.8"
+projects[colorbox][version] = "2.9"
 projects[colorbox][type] = "module"
 projects[colorbox][subdir] = "contrib"
 
