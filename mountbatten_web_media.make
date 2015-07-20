@@ -13,7 +13,7 @@ projects[spamspan][version] = 1.2
 projects[spamspan][type] = "module"
 projects[spamspan][subdir] = "contrib"
 
-projects[picture][version] = 2.9
+projects[picture][version] = 2.11
 projects[picture][type] = "module"
 projects[picture][subdir] = "contrib"
 
