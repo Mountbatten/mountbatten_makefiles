@@ -21,7 +21,7 @@ projects[media][version] = 2.0-alpha4
 projects[media][type] = "module"
 projects[media][subdir] = "contrib"
 
-projects[file_entity][version] = 2.0-beta1
+projects[file_entity][version] = 2.0-beta2
 projects[file_entity][type] = "module"
 projects[file_entity][subdir] = "contrib"
 projects[file_entity][patch][] = "https://www.drupal.org/files/issues/file-destination-not-showing-2411391_2.patch"
