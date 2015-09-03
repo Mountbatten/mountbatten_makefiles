@@ -26,7 +26,7 @@ projects[file_entity][type] = "module"
 projects[file_entity][subdir] = "contrib"
 projects[file_entity][patch][] = "https://www.drupal.org/files/issues/file-destination-not-showing-2411391_2.patch"
 
-projects[flexslider][version] = 2.0-alpha3
+projects[flexslider][version] = 2.0-rc1
 projects[flexslider][type] = "module"
 projects[flexslider][subdir] = "contrib"
 
