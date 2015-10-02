@@ -25,7 +25,7 @@ projects[file_entity][version] = 2.0-beta2
 projects[file_entity][type] = "module"
 projects[file_entity][subdir] = "contrib"
 
-projects[flexslider][version] = 2.0-alpha3
+projects[flexslider][version] = 2.0-rc1
 projects[flexslider][type] = "module"
 projects[flexslider][subdir] = "contrib"
 
