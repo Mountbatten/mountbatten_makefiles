@@ -16,7 +16,6 @@ projects[context][subdir] = "contrib"
 projects[date][version] = "2.9"
 projects[date][type] = "module"
 projects[date][subdir] = "contrib"
-projects[date][patch][] = "https://www.drupal.org/files/issues/date-show_remaining_days_notice-2469189-1.patch"
 
 projects[elements][version] = "1.4"
 projects[elements][type] = "module"
