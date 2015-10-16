@@ -1,7 +1,7 @@
 core = 7.x
 api = 2
 
-projects[colorbox][version] = "2.9"
+projects[colorbox][version] = "2.10"
 projects[colorbox][type] = "module"
 projects[colorbox][subdir] = "contrib"
 
@@ -13,7 +13,7 @@ projects[spamspan][version] = 1.2
 projects[spamspan][type] = "module"
 projects[spamspan][subdir] = "contrib"
 
-projects[picture][version] = 2.12
+projects[picture][version] = 2.13
 projects[picture][type] = "module"
 projects[picture][subdir] = "contrib"
 
@@ -62,7 +62,7 @@ libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
 libraries[colorbox][download][type] = "file"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/1.5.14.zip"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/1.6.3.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
