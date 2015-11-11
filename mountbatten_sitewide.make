@@ -58,7 +58,7 @@ projects[token][version] = "1.6"
 projects[token][type] = "module"
 projects[token][subdir] = "contrib"
 
-projects[views][version] = "3.11"
+projects[views][version] = "3.13"
 projects[views][type] = "module"
 projects[views][subdir] = "contrib"
 projects[views][patch][] = "https://www.drupal.org/files/issues/views-site_info-730752-8.patch"
