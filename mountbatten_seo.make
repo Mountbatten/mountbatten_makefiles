@@ -6,7 +6,7 @@ projects[xmlsitemap][version] = 2.2
 projects[xmlsitemap][type] = "module"
 projects[xmlsitemap][subdir] = "contrib"
 
-projects[metatag][version] = 1.4
+projects[metatag][version] = 1.14
 projects[metatag][type] = "module"
 projects[metatag][subdir] = "contrib"
 

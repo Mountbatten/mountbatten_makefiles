@@ -25,11 +25,11 @@ projects[email][version] = "1.3"
 projects[email][type] = "module"
 projects[email][subdir] = "contrib"
 
-projects[entity][version] = "1.6"
+projects[entity][version] = "1.7"
 projects[entity][type] = "module"
 projects[entity][subdir] = "contrib"
 
-projects[features][version] = "2.7"
+projects[features][version] = "2.10"
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
 
@@ -37,7 +37,7 @@ projects[libraries][version] = "3.x-dev"
 projects[libraries][type] = "module"
 projects[libraries][subdir] = "contrib"
 
-projects[link][version] = "1.3"
+projects[link][version] = "1.4"
 projects[link][type] = "module"
 projects[link][subdir] = "contrib"
 
@@ -45,7 +45,7 @@ projects[nagios][version] = 1.3
 projects[nagios][type] = "module"
 projects[nagios][subdir] = "contrib"
 
-projects[pathauto][version] = "1.2"
+projects[pathauto][version] = "1.3"
 projects[pathauto][type] = "module"
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][patch][] = "https://www.drupal.org/files/pathauto-add-drush-support-867578-42.patch"
